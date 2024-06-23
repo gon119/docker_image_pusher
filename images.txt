@@ -9,4 +9,4 @@ jellyfin/jellyfin
 linuxserver/jackett
 allanpk716/chinesesubfinder
 herberthe0229/iptv-sources
-xhofe/alist
+xhofe/alist:arm64
