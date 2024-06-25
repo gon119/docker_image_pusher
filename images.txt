@@ -10,3 +10,4 @@ linuxserver/jackett
 allanpk716/chinesesubfinder
 herberthe0229/iptv-sources
 --platform=linux/arm64 jellyfin/jellyfin:latest
+cloudreve/cloudreve
