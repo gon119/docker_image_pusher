@@ -14,3 +14,4 @@ cloudreve/cloudreve
 cloudnas/clouddrive2
 dockerproxy.com/library/alpine
 nginx:alpine-slim
+xiaoyaliu/alist
